@@ -1,6 +1,3 @@
-from asyncio import constants
-
-
 word = input("Give me a word and I will give you the stats on it: ")
 cons = "BbCcDdFfGgHhJjKkLlMmNnPpQqRrSsTtVvWwXxZz"
 vow = "AaEeIiOoUuYy"
