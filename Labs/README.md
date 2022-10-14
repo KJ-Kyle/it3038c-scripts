@@ -24,7 +24,7 @@ b = np.arange(5)
 print(b)
 ```
 
-The .arange function alows for the simple creation of an in-order array 
+The .arange function allows for the simple creation of an in-order array 
 
 We can now create multiple arrays using the .reshape function 
 
