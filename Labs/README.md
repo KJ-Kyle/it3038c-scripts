@@ -1,4 +1,4 @@
-#Lab 7 read me 
+# Lab 7 Example
 
 This is how to run a python script with python Numpy 
 
