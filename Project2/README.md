@@ -1,6 +1,6 @@
 # Project 2 
 
-For Project 2 I created a scrypt in poython that will search the contents of your clip board in wikipedia 
+For Project 2, I created a scrypt in python that will search the contents of your clip board in wikipedia 
 
 <h2>
   How To Use
@@ -9,7 +9,7 @@ For Project 2 I created a scrypt in poython that will search the contents of you
  To make the code work, simply start the scrypt. 
  If no errors are thrown and the scrypt is still running, you're good to go 
   
- To initiate a search, simply type "lu!" and the term you would like to look up and the scrypt will open a .txt file with what it finds.
+ To initiate a search, simply type "lu!" and the term you would like to look up. The scrypt will then open a .txt file with what it finds.
 </p>  
 <h3> 
   Example
@@ -33,7 +33,7 @@ lu!Cincinnati
    Stopping the scrypt
 </h3>
 <p>
-If at any point you wish to stop the scrypt, simply coppy "stp" and the code with automatically stop
+If at any point you wish to stop the scrypt, simply copy "stp" and the code with automatically stop
 </p>
 
 <h2>
@@ -42,6 +42,8 @@ If at any point you wish to stop the scrypt, simply coppy "stp" and the code wit
 
 <p>
   Two external libraries were used to create this scrypt, clipboard and wikipedia 
+</p>
+<p>
   To install these libraries, simply pip install them 
 </p>
 
