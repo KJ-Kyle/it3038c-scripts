@@ -11,6 +11,5 @@ def hello():
 
 
 @app.route('/welcome', methods=['POST'])
-
 def welcome():
    return render_template("welcome.html", myName=request.form['myName'])

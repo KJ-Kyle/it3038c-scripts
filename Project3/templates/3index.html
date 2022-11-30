@@ -1,0 +1,17 @@
+{% extends "3layout.html" %}
+{% block content %}
+<p><em>Enter the city you want to search for breweries</em>
+    <form action="/breweries" method="POST">
+        <div class="mb-3">
+          <label for="City" class="form-label">Enter City</label>
+          <input type="text" class="form-control" id="City" name="City">
+          <div id="City" class="form-text">Enter the city you want to find breweries</div>
+        </div>
+        <div class="mb-3">
+          <label for="Number" class="form-label">Number of breweries</label>
+          <input type="text" class="form-control" id="Number" name="Number">
+        </div>
+        <button type="submit" class="btn btn-primary" value="Submit">Submit</button>
+      </form>
+</p>
+{% endblock %}
