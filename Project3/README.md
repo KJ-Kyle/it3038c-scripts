@@ -32,7 +32,7 @@ pip install requests
   <li>Big Ash Brewing Company - planning - None</li>
   <li>Boston Beer Co - DBA Samuel Adams Brewing Co - regional - 1625 Central Pkwy</li>
   <li>Brink Brewing Company - micro - 5905 Hamilton Ave </li>
-</ul>fixl
+</ul>
 
 <h2>
   Installation
@@ -54,4 +54,10 @@ pip install clipboard
 <h2>
   Refrences
 </h2>
+<ul>
+  <li>https://www.openbrewerydb.org/documentation. Open Brewery Database </li>
+  <li>https://stackoverflow.com/questions/70677136/how-to-print-list-in-python-flask-jinja2-html</li>
+  <li>https://getbootstrap.com/. Bootstrp</li>
+  <li>https://it3038c.github.io/IT3038C/modules/12</li>
+</ul>
 
