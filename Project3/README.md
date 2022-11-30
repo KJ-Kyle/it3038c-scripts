@@ -7,9 +7,8 @@ For Project 3, I created a scrypt that searches for breweries in a given city in
 </h2> 
 <p>  
  To start simply import these libraries: 
-<\p>
 
-```
+```python
 pip install flask
 pip install requests
 ```
@@ -28,7 +27,7 @@ pip install requests
   the next page should show this:
 </p>
 ```
- 13 Below Brewery - micro - 7391 Forbes Rd
+13 Below Brewery - micro - 7391 Forbes Rd
 Bad Tom Smith Brewing - micro - 4720 Eastern Ave
 Big Ash Brewing Company - planning - None
 Boston Beer Co - DBA Samuel Adams Brewing Co - regional - 1625 Central Pkwy
