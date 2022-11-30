@@ -1,6 +1,6 @@
 # Project 3 
 
-For Project 3, I created a scrypt that searches for breweries in a given city in alphabetical order
+For Project 3, I created a scrypt in python that searches for breweries in a given city in alphabetical order
 
 <h2>
   How To Use
@@ -13,7 +13,7 @@ pip install flask
 pip install requests
 ```
 
- To start, run the "start.py" file. This will create a locl server on port 5000<br>
+ To start, run the "start.py" file. This will create a local server on port 5000<br>
  If no errors are thrown and the scrypt is still running, you're good to go <br>
   
  Now in a browser, go to http://localhost:5000<br>
