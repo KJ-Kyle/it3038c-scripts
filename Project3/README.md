@@ -26,13 +26,13 @@ pip install requests
   Put "Cincinnati" in the first box and "5" in the second (minus the ") <br>
   the next page should show this:
 </p>
-```
+<ul>
 13 Below Brewery - micro - 7391 Forbes Rd
 Bad Tom Smith Brewing - micro - 4720 Eastern Ave
 Big Ash Brewing Company - planning - None
 Boston Beer Co - DBA Samuel Adams Brewing Co - regional - 1625 Central Pkwy
 Brink Brewing Company - micro - 5905 Hamilton Ave 
-```
+</ul>fixl
 
 <h2>
   Installation
