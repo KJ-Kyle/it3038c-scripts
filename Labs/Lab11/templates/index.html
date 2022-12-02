@@ -2,7 +2,10 @@
 {% block content %}
 <p><em>What is your name?</em>
   <div class="input-group mb-3">
-    <form action="/welcome" method="POST"><input class="btn btn-primary" type="submit" value="Submit"><input type="text" class="form-control" placeholder="Enter Your Name" aria-label="Recipient's username" name="myName"></form>
+    <form action="/welcome" method="POST">
+      <input class="btn btn-primary" type="submit" value="Submit">
+      <input type="text" class="form-control" placeholder="Enter Your Name" aria-label="Recipient's username" name="myName">
+    </form>
   </div>  
 </p>
 {% endblock %}
